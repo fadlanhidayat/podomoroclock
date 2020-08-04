@@ -1,0 +1,22 @@
+.set-timer{
+    /* background-color: aqua;
+    display: flex; */
+  }
+  
+  .timer {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0 px 200px;
+    margin: 50px;
+  }
+
+  .timer button{
+      width: 25px;
+      padding: 5px;
+      background-color: white;
+      border: none;
+      margin: 10px;
+      border-radius: 10px;
+  }
